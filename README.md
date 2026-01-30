@@ -13,9 +13,11 @@ npx skills add https://github.com/darshil321/fynd-backend-skills --skill fynd-ba
 
 ## Docs
 
-- `fynd-backend-skills.md` - Architecture overview and skills matrix.
-- `fynd-backend-skill-template.md` - Skill metadata/template scaffold.
-- `fynd-agent-integration.md` - Agent tool integration guide.
+Docs are bundled with the skill under `skills/fynd-backend-microservices/references/`:
+
+- `skills/fynd-backend-microservices/references/fynd-backend-skills.md` - Architecture overview and skills matrix.
+- `skills/fynd-backend-microservices/references/fynd-backend-skill-template.md` - Skill metadata/template scaffold.
+- `skills/fynd-backend-microservices/references/fynd-agent-integration.md` - Agent tool integration guide.
 
 ## License
 MIT
