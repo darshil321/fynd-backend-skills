@@ -1,0 +1,9 @@
+{
+  "name": "fynd-backend-skills",
+  "version": "1.0.0",
+  "description": "Expert debugging skills for FYND Kubernetes/GCP/Kafka/Node.js backend",
+  "author": "DevX AI Labs",
+  "license": "MIT",
+  "keywords": ["kubernetes","gcp","kafka","redis","nodejs","microservices"],
+  "repository": {"type": "git","url": "https://github.com/devx-ai-labs/fynd-backend-skills"}
+}
