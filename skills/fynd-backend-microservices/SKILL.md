@@ -29,5 +29,14 @@ description: Expert debugging for FYND's Kubernetes/GCP/Kafka/Node.js backend. U
 3. Test systematically
 4. Provide fix + monitoring
 
+## 📦 Bundled Resources (load as needed)
+- `scripts/diagnose.js` - quick pod snapshot (`kubectl get pods`)
+- `references/patterns.md` - fast CLI patterns for pod crash, Kafka lag, Redis memory
+- `references/fynd-backend-skills.md` - full architecture + skills matrix + flowcharts + checklists
+- `references/fynd-agent-integration.md` - LangGraph/LangChain tool integration guide
+- `references/fynd-backend-skill-template.md` - template for creating new skills or extensions
+
+**Search tips:** use `rg -n "Use Cases|Agent Actions|Checklist|Flowchart"` in the reference files to jump to relevant sections quickly.
+
 ## 📊 Success
 94% accuracy | <5s response | 30% MTTR reduction | $740k/year savings
