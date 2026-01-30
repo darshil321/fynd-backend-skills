@@ -5,5 +5,5 @@
   "author": "DevX AI Labs",
   "license": "MIT",
   "keywords": ["kubernetes","gcp","kafka","redis","nodejs","microservices"],
-  "repository": {"type": "git","url": "https://github.com/devx-ai-labs/fynd-backend-skills"}
+  "repository": {"type": "git","url": "https://github.com/darshil321/fynd-backend-skills"}
 }

@@ -8,7 +8,7 @@ Expert debugging for FYND's Kubernetes/GCP/Kafka/Node.js architecture.
 Debug FYND backend: K8s, Kafka, Redis, tracing, databases, LLMs
 
 ```
-npx skills add https://github.com/devx-ai-labs/fynd-backend-skills --skill fynd-backend-microservices
+npx skills add https://github.com/darshil321/fynd-backend-skills --skill fynd-backend-microservices
 ```
 
 ## License
