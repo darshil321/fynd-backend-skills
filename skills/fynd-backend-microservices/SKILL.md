@@ -1,3 +1,8 @@
+---
+name: fynd-backend-microservices
+description: Expert debugging for FYND's Kubernetes/GCP/Kafka/Node.js backend. Use for pods crashing, Kafka lag, Redis memory high, API latency, DB migration failures, LLM cost spikes, memory leaks, and service failures.
+---
+
 # FYND Backend Microservices 🛠️
 
 **Expert debugging for FYND's Kubernetes/GCP/Kafka/Node.js backend.**
